@@ -1,0 +1,27 @@
+1) As mentioned in README, XML is more about storing and transfering the data rather than representing it like in case
+    of HTML.
+2) XML itslf does nothing, as it is just a peice of information presented with XML tags. If you want to do something with   
+    XML document, you need to have a software for that, like Internet browser to represent it with the help of HTML tags
+3) XML tags are not pre defined like that of HTML. In XML author must define both the tags and the document structure.
+4) XML is extensible -- meaning is Most of the XML applications will work as expected even if new data is added or
+    removed from them.
+5) XML is used in many expects of Web Development
+6) XML separates data from presentation -- This means XML does not carry any information about how its going to be 
+    displayed and can be used in many different presentaion scenarios
+7) XML compliment to HTML -- This means that in many HTML applications, XML is used to store and transport the data
+    while HTML is used to present the same data
+8) XML separates data from HTML -- With XML Data can be stored in separate XML files. and with the help of small code of 
+    javascript in HTML file can read the XML file into the HTML page and use it.
+    For example : consider the XML file named as Books.xml in the same directory of our XML_project
+9) Thousands of format  exist, in many different industries, to describe day to day transactions
+    like
+        a) Stocks and Shares
+        b) Financial transactions
+        c) Medical data
+        d) Mathematical data
+        e) scientific mesurements
+        f) News information
+        g) Weather service.
+
+
+Need to start with XML tree
